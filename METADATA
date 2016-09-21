@@ -1,0 +1,6 @@
+REPO:jwalter-1
+VERSION:0.1.0
+DESCRIPTION:Pulls GPG agent information into the environment
+USE:
+HELP:
+HELP:
